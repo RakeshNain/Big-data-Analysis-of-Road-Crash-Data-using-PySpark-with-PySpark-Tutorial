@@ -1,0 +1,2 @@
+# Big-data-Analysis-of-Road-Crash-Data-using-PySpark-with-PySpark-Tutorial
+In this repository, I will be sharing data about road crashes in South Australia and jupyter files to explain PySpark and try to do small Data Analysis using parallel computing with a brief overview of PySpark concepts. Those jupyter files will demonstrate parallel computing using three types of data structures: RDDs, PySpark DataFrame, SparkSQL.
